@@ -1,0 +1,145 @@
+# Site
+repository: smtanvirbinazad/portfolio
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: SM Tanvir Bin Azad
+title: Business Analytics Student | Supply Chain & Data Analysis
+email: binazas@miamioh.edu
+# email_title: Email (Email title override)
+# phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+# website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: jekyllrb
+github_username: smtanvirbinazad
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: www.linkedin.com/in/sm-tanvir-bin-azad
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
+
+# Additional icon links
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: |
+  I'm SM Tanvir Bin Azad, a Business Analytics student at Miami University (Class of 2026) with a passion for leveraging data and strategic insights to solve complex business challenges. My journey spans international logistics, financial analysis, and consulting, where I've developed a unique ability to bridge operational excellence with data-driven decision-making. From managing end-to-end freight operations at Union Logistics to leading award-winning consulting projects for clients like BIBIBOP Asian Grill and NextGen Fuel, I thrive in environments where analytical rigor meets real-world impact.
+  
+  My technical toolkit includes SQL, business intelligence platforms, and data visualization, complemented by hands-on experience in supply chain operations, market research, and financial analysis. I'm currently deepening my expertise through coursework in database systems, business intelligence, and enterprise technology, while maintaining a strong academic record on the Dean's List. Whether I'm analyzing market trends, optimizing logistics workflows, or building client relationships through strategic sales approaches, I bring a results-oriented mindset shaped by diverse international experiences across the U.S. and Myanmar.
+  
+  I'm actively seeking opportunities in business analytics, supply chain strategy, or financial analysis where I can apply my analytical skills and operational knowledge to drive measurable business outcomes. I'm particularly drawn to roles that combine data analysis with strategic consulting, allowing me to transform insights into actionable recommendations. If you're looking for someone who can navigate complexity, communicate effectively across teams, and deliver data-backed solutions, let's connect.
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: First Year Integrated Core Client Challenge: NextGen Fuel
+        description: |
+          Consulted with NextGen Fuel about developing an ESG (Environmental, Social, and Governance) effective approach. Pitched idea of holding a Summit called the Next Generation Summit. Awarded Top-3 and Finalist.
+          
+          **Technologies:** SQL
+      - layout: top-middle
+        title: BIBIBOP Asian Grill sales consulting project
+        description: |
+          Conducted comprehensive market research utilizing platforms like Statista, Google Trends, MRI Simmons, and IBISWorld. Successfully pitched a sales strategy to the Digital Marketer at BIBIBOP. First-place team award.
+          
+          **Technologies:** Statista, Google Trends, MRI Simmons, IBISWorld
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Union Logistics (NY) Inc
+        sub_title: Intern Business Strategist, Sales Associate
+        caption: May 2025 - Aug 2025
+        description: |
+          Provides end-to-end freight and supply chain solutions with a strong focus on customer satisfaction, operational efficiency, and cost-effective delivery through strategic partnerships and a global agency network.
+          - Worked full-time (40 hours/week) for 3 months, gaining hands-on experience in international logistics and supply chain operations
+          - Managed FCL and LCL shipments across ocean, air, and land, coordinating with customs brokers, overseas agents, truckers, and internal teams; gained in-depth exposure to the end-to-end import/export process in a freight forwarding environment
+          - Developed comprehensive knowledge of global logistics processes, including shipment classifications, documentation flow, and key industry terminology, while utilizing Union's internal freight management system to track cargo, allocate financial responsibility, and ensure accurate invoicing
+          - Cold-called and prospected potential new clients, contributing to the company's customer acquisition efforts
+      - layout: left
+        title: Pact Global Microfinance Fund
+        sub_title: Intern Operations Support Specialist, Monthly Reporting & Presentation Lead
+        caption: Jun 2020 - Aug 2020
+        description: |
+          Pact Global Microfinance Fund (PGMF) is the leading microfinance institution in Myanmar.
+          - Worked full-time (45 hours/week) for 2 months
+          - Gained insights into the structure, administration, vertical integration, and processes of an MFI
+          - Established relations with the heads of all 11 departments at Pact
+          - Mastered knowledge of the fundamental operations performed internally at the company
+          - Monitored the financial transactions while interpreting speculations and data through curves and graphs
+      - layout: left
+        title: First Greenhill Logistics (FGL)
+        sub_title: Intern Customer Relations
+        caption: Jun 2018 - Sep 2018
+        description: |
+          Offers global transportation solutions by partnering with key air, ocean, and ground carriers to deliver the ideal balance of lead time, capacity, frequency, and cost.
+          - Worked full-time (45 hours/week) for 3 months
+          - Assisted customers in managing shipment logistics as part of the customer service team and provided support to the overseas relations department
+          - Monitored the firm's daily finances, ensuring payments were settled as scheduled, while building strong connections with future partners of the company
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Miami University
+        sub_title: Bachelor of Science in Business in Business Analytics
+        caption: Expected in May 2026
+        description: |
+          Relevant Coursework:
+          - ISA 235: Information Technology and the Intelligent Enterprise
+          - ISA 345: Database Systems and Data Warehousing
+          - ISA 401: Business Intelligence and Data Visualization
+      - layout: left
+        title: Yangon Academy
+        sub_title: High School Diploma in None
+        caption: Jun 2022
+        description: |
+          Relevant Coursework:
+          - ISA 235: Information Technology and the Intelligent Enterprise
+          - ISA 345: Database Systems and Data Warehousing
+          - ISA 401: Business Intelligence and Data Visualization
+  - title: Skills
+    layout: text
+    content: |
+      **Technical Skills:** SQL, Market Research, Freight Forwarding, Supply Chain Operations, Customer Relations, Equity Research, Stock Analysis, Financial Analysis, Data Analysis, International Logistics, Sales Strategy, Cold Calling, Data Visualization
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
